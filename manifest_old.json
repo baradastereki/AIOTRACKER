@@ -1,0 +1,24 @@
+{
+    "name": "aioGPS",
+    "short_name": "aioGPS",
+    "start_url": "https://aiolearnfamily.com/gps/",
+    "display": "standalone",
+    "description": "Weather forecast information",
+    "orientation": "portrait",
+    "background_color": "#fff",
+    "theme_color": "#3740ff",
+    "scope": "https://aiolearnfamily.com/gps/",
+    "icons": [
+      {
+        "src": "https://aiolearnfamily.com/gps/icon.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "https://aiolearnfamily.com/gps/icon-2.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ],
+    "splash_pages": null
+  } 

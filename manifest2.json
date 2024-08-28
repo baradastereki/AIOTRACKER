@@ -1,0 +1,40 @@
+{
+    "name": "Test2",
+    "short_name": "Test2",
+    "start_url": "https://aiolearnfamily.com/gps/index2.html",
+    "display": "standalone",
+    "description": "Aiolearn GPS Project",
+    "orientation": "portrait",
+    "background_color": "#000",
+    "theme_color": "#000",
+    "scope": "https://aiolearnfamily.com/gps/index2.html",
+    "icons": [
+        {
+          "src": "https://aiolearnfamily.com/gps/icon.png",
+          "sizes": "128x128",
+          "type": "image/png"
+        },
+        {
+          "src": "https://aiolearnfamily.com/gps/icon-2.png",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+            "src": "https://aiolearnfamily.com/gps/icon-2.png",
+            "sizes": "72x72",
+            "type": "image/png"
+          },
+          {
+            "src": "https://aiolearnfamily.com/gps/icon-2.png",
+            "sizes": "192x192",
+            "type": "image/png"
+          },
+          {
+            "src": "https://aiolearnfamily.com/gps/icon-2.png",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+      ],
+      "splash_pages": null 
+
+}
